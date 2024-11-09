@@ -1,6 +1,6 @@
 // GitHub repository details
-const repoOwner = 'rajarpit812';
-const repoName = 'GCP';
+const repoOwner = '007-kartik';
+const repoName = 'c';
 const branch = 'main';
 
 // Fetch the repository contents from GitHub
